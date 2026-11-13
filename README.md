@@ -1,6 +1,14 @@
 # F12 Notes – Updates
 
-Hier liegen die veröffentlichten Versionen von F12 Notes (Releases).
-F12 Notes prüft diese Seite selbst auf neue Versionen (F12 → „Nach Updates suchen“).
+Aktuelle Version: **0.3.0** (2026-11-13)
 
-Download der aktuellen Version: siehe **Releases** rechts.
+- Windows: [F12Notes.exe](windows/F12Notes.exe) – herunterladen und starten, keine Installation nötig
+- Linux (x86_64, ab Mint 20): [f12notes-linux-x86_64.tar.gz](linux/f12notes-linux-x86_64.tar.gz) – entpacken, `./install.sh`
+
+Neu in 0.3.0:
+- Updates direkt aus der Anwendung (F12 → Nach Updates suchen)
+- Cloud-Abgleich: gleichzeitige Änderungen werden wortweise zusammengeführt, Widersprüche farbig markiert
+- Cloud-Abgleich standardmäßig aus, beim ersten Cloud-Ziel automatisch an
+- Windows: optional in den Infobereich minimieren
+
+Installierte Versionen aktualisieren sich selbst: F12 → „Nach Updates suchen“.

@@ -1,0 +1,7 @@
+{
+  "version": "0.3.0",
+  "date": "2026-11-13",
+  "notes": "Updates direkt aus der Anwendung (F12 → Nach Updates suchen)\nCloud-Abgleich: gleichzeitige Änderungen werden wortweise zusammengeführt, Widersprüche farbig markiert\nCloud-Abgleich standardmäßig aus, beim ersten Cloud-Ziel automatisch an\nWindows: optional in den Infobereich minimieren",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "628479b0e5800e2f43da10167ede60db78732985f299a88303d5cb897f5084c5" },
+  "linux": { "file": "linux/f12notes", "sha256": "88e991092b293781a5cae5c64489445e07bd454e410680be9e88408382a76da0" }
+}
