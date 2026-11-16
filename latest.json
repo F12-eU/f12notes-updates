@@ -3,5 +3,6 @@
   "date": "2026-11-13",
   "notes": "Nach einem Update meldet F12 Notes kurz, auf welche Version aktualisiert wurde\nTestversion für die Update-Funktion",
   "windows": { "file": "windows/F12Notes.exe", "sha256": "eafb56a080183ddfe0054d6e738439e809ef5975e12526bd13087202fbe60d95" },
-  "linux": { "file": "linux/f12notes", "sha256": "a9185b54be5d6f62bbfb342991ceb687097f0986c49c155684374853e0a53384" }
+  "linux": { "file": "linux/f12notes", "sha256": "a9185b54be5d6f62bbfb342991ceb687097f0986c49c155684374853e0a53384" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.3.1", "sha256": "894d91cdb19df9c175f30083814e4223438f27870afc5845a5c65e9308dbe599" }
 }
