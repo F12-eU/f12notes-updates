@@ -1,8 +1,8 @@
 {
-  "version": "0.4.0",
-  "date": "2026-11-16",
-  "notes": "Blöcke einklappen: Überschriften und eingerückte Unterpunkte (Dreieck links oder Strg+.)\nTab rückt Listen und Aufgaben ein (Shift+Tab aus)\nLink einfügen mit Strg+K\nFarbe erledigter Aufgaben einstellbar\nCloud-Abgleich erst nach einer Tipp-Pause – Tippen hat Vorrang\nInfobereich: Minimieren wieder normal, Schließen blendet aus (optional)\nAndroid: Lesemodus beim Öffnen",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "d327adfa9bc0ef992b63d6d23378c1ba9ee130d24211cde91cac6cb8f394e745" },
-  "linux": { "file": "linux/f12notes", "sha256": "23afe8da435fd30454c7f608f3bd81939ba7ef36c8f47640b700086321b4d8a2" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.4.1", "sha256": "f2c33d551b39a270b0225b007c2efd676ddf77b96743fe5cb330d5bef46b28ea" }
+  "version": "0.5.0",
+  "date": "2026-11-17",
+  "notes": "Einklappbare Blöcke: Zeilen markieren, Strg+. (Handy: Markierungsmenü „Block“), Titel eingeben\nIn der Datei steht ::: Titel … ::: – Überschriften und Listen werden nicht mehr automatisch einklappbar\nBlöcke sind eingeklappt; aufgeklappte merkt sich jedes Gerät\nF12 → „Block auflösen“ entfernt die Markierungen, der Text bleibt",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "9c29004e9d5fbfaf487aaefd9197081f1a279363e974fd938b51ce1ad962b9ad" },
+  "linux": { "file": "linux/f12notes", "sha256": "68680b6952ee97be7f14df16e09c3d8c413bbe8e574eba53445c9b10ee9914a7" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.5.0", "sha256": "c3ebc5d2c1be1b6bb8f157e296236de4ea4f6c25d77bf0687c5f993887abc323" }
 }
