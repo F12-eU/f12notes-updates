@@ -1,8 +1,8 @@
 {
-  "version": "0.6.2",
+  "version": "0.7.0",
   "date": "2026-11-18",
-  "notes": "Eigene Farbe für Blocküberschriften: F12 → „Farbe der Blocküberschriften“",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "26abc616004cab9f065fa90b9988ddf827d889e7771a4d72a5b68ad09f31988e" },
-  "linux": { "file": "linux/f12notes", "sha256": "fe23d854a438d9ec4fb22a71baa968b6e9316efad59f134a5e195ac78043359e" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.6.2", "sha256": "b093983aadd3223c25ab687dc9d97cbab3a18c04c90102f53884c7607992d881" }
+  "notes": "Rechtsklick (Handy: gedrückt halten) zeigt eine Zeile vorübergehend als Klartext – Links, Farben usw. bearbeiten\nIn der formatierten Ansicht zählt jedes Markdown-Element (Checkbox, Pfeil …) als ein Zeichen\nMarkdown-Ansicht umschalten: Strg+M bzw. F12",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "0686674305092c1f6bacf1bc13d43636cafe44ab0964e803cdc51bd03fc9d2b6" },
+  "linux": { "file": "linux/f12notes", "sha256": "56c561dd60ea0be2bb821f4a13162e2abf67cad7f9651d7d35a3f413e56120f4" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.7.0", "sha256": "dfe7b7ff866f5615aa7fe6fb75eda98d2d39f5341099a288991ef7480b8fa320" }
 }
