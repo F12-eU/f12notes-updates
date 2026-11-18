@@ -1,8 +1,8 @@
 {
-  "version": "0.5.1",
-  "date": "2026-11-17",
-  "notes": "Blöcke bekommen automatisch eine eigene Farbe: F12 → „Farbe … in Blöcken“ (wie bei erledigten Aufgaben)",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "cf3ecae2f48d2f92f297d5c0714d18bc4dde5b9d09dc525fa23d1bcc26a3234a" },
-  "linux": { "file": "linux/f12notes", "sha256": "ed56bf31a90f2fa115e5993ed77fa3a9764827909c7b80981bc36ab16cfa1af3" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.5.1", "sha256": "832730f4dc3ef0d71886d80eaef07c2cf1f9c3be7ab69d2c0941bee9a5134752" }
+  "version": "0.6.0",
+  "date": "2026-11-18",
+  "notes": "Nach-oben-Pfeil beim Scrollen\nLange Listenpunkte und eingerückte Zeilen bleiben beim Umbruch eingerückt\nBlock erstellen: wird die erste Zeile als Titel übernommen, steht sie nicht mehr doppelt da\nFarben für Überschriften, Links, Trennlinien, Listen, Checkboxen, Zitate, Code und Pfeile einstellbar",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "af2bfc8dcd3a45f2d242017d6bdff5f57c22ff2957a9c9c5db0e595caec60ee8" },
+  "linux": { "file": "linux/f12notes", "sha256": "0914d45f7637ee4d915878c610b4f996e479b3c1772fab93fb216abea7232b34" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.6.0", "sha256": "952fe9e724184f4c8915c1e6b5209988b96ca4d3661e36afee9fc9b0360d5a5c" }
 }
