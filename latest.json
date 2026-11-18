@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "date": "2026-11-18",
-  "notes": "Nach-oben-Pfeil beim Scrollen\nLange Listenpunkte und eingerückte Zeilen bleiben beim Umbruch eingerückt\nBlock erstellen: wird die erste Zeile als Titel übernommen, steht sie nicht mehr doppelt da\nFarben für Überschriften, Links, Trennlinien, Listen, Checkboxen, Zitate, Code und Pfeile einstellbar",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "af2bfc8dcd3a45f2d242017d6bdff5f57c22ff2957a9c9c5db0e595caec60ee8" },
-  "linux": { "file": "linux/f12notes", "sha256": "0914d45f7637ee4d915878c610b4f996e479b3c1772fab93fb216abea7232b34" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.6.0", "sha256": "952fe9e724184f4c8915c1e6b5209988b96ca4d3661e36afee9fc9b0360d5a5c" }
+  "notes": "Links öffnen sich jetzt mit einem normalen Klick (Handy: Antippen); Mauszeiger wird zur Hand\nZum Bearbeiten eines Links daneben klicken bzw. am Handy lange drücken",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "6388d1a5417000fe0f9dca37ff3ff51c8c4ebd2370ab9216219a4c393bb37f4b" },
+  "linux": { "file": "linux/f12notes", "sha256": "48689d5c9faba9dab54d9aded5e2e3c135a87481be8e92bcfbd8204b54ce1318" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.6.1", "sha256": "c7a487273ddd1f7f196db46aa5ab8e39b9d60ec17471a2a6acf2d3b5bfca4e73" }
 }
