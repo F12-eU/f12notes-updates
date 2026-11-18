@@ -1,8 +1,8 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "date": "2026-11-18",
-  "notes": "Links öffnen sich jetzt mit einem normalen Klick (Handy: Antippen); Mauszeiger wird zur Hand\nZum Bearbeiten eines Links daneben klicken bzw. am Handy lange drücken",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "6388d1a5417000fe0f9dca37ff3ff51c8c4ebd2370ab9216219a4c393bb37f4b" },
-  "linux": { "file": "linux/f12notes", "sha256": "48689d5c9faba9dab54d9aded5e2e3c135a87481be8e92bcfbd8204b54ce1318" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.6.1", "sha256": "c7a487273ddd1f7f196db46aa5ab8e39b9d60ec17471a2a6acf2d3b5bfca4e73" }
+  "notes": "Eigene Farbe für Blocküberschriften: F12 → „Farbe der Blocküberschriften“",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "26abc616004cab9f065fa90b9988ddf827d889e7771a4d72a5b68ad09f31988e" },
+  "linux": { "file": "linux/f12notes", "sha256": "fe23d854a438d9ec4fb22a71baa968b6e9316efad59f134a5e195ac78043359e" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.6.2", "sha256": "b093983aadd3223c25ab687dc9d97cbab3a18c04c90102f53884c7607992d881" }
 }
