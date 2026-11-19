@@ -1,8 +1,8 @@
 {
-  "version": "0.8.2",
+  "version": "0.8.3",
   "date": "2026-11-19",
-  "notes": "Kalender: Fastmail und andere Server – Adresse wird bereinigt, Kalender werden automatisch gefunden",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "f29bbac8720a2983d18af9c74b70566c535fe3ceb33dcb82045750c3005db1ef" },
-  "linux": { "file": "linux/f12notes", "sha256": "ff2aa182be3de7e425ac7deee38656cdf5a156dba6322be71038f9a335442316" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.8.2", "sha256": "cad736e502be334d1016d53c153d6ad1632fa00e5ae55b990c73343caffc33b4" }
+  "notes": "Kalender: Termine als Checkboxen [ ] auflisten",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "117e40adfbee3aa2cb494fd635af8cef4e2b7fa61a9ff437ef14202481fb03a4" },
+  "linux": { "file": "linux/f12notes", "sha256": "a376c7b113ae94b3ea9d4462630c1043a3bc56fff56016ea14d4feceb63931a7" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.8.3", "sha256": "08a4b831e464b0d606e5f9f76eb5172abaaccc870dd054136d287d03c239683a" }
 }
