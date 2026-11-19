@@ -1,8 +1,8 @@
 {
-  "version": "0.8.1",
+  "version": "0.8.2",
   "date": "2026-11-19",
-  "notes": "Kalender: nur Titel mit {termin_titel}, {termine_heute_titel}, {termine_woche_titel}",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "8381737c544f90a1ee74bbfe9c8e46cf1b5e85e1a403ef632dea2808038a3d01" },
-  "linux": { "file": "linux/f12notes", "sha256": "8bdb0941da4c5343e68b57281e16eab520a073225a2407e5e5ba71cd66727263" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.8.1", "sha256": "6a73bb81f4c8f75605cbe337645414782383992e78a21701ff2ad55f60c29c84" }
+  "notes": "Kalender: Fastmail und andere Server – Adresse wird bereinigt, Kalender werden automatisch gefunden",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "f29bbac8720a2983d18af9c74b70566c535fe3ceb33dcb82045750c3005db1ef" },
+  "linux": { "file": "linux/f12notes", "sha256": "ff2aa182be3de7e425ac7deee38656cdf5a156dba6322be71038f9a335442316" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.8.2", "sha256": "cad736e502be334d1016d53c153d6ad1632fa00e5ae55b990c73343caffc33b4" }
 }
