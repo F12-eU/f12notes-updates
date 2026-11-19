@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
+  "version": "0.8.0",
   "date": "2026-11-19",
-  "notes": "Fenster öffnen sich an derselben Stelle und in derselben Größe wie beim Schließen – auch beim Autostart",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "61ff4b0a6f36a10ab1f46edae9e04ab289678d3ef3ee66e7ac230d3b08c1c9f3" },
-  "linux": { "file": "linux/f12notes", "sha256": "7119999d80cd75a345a067d25f48a9e57f1901af19cc06738c814c84b2053f01" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.7.1", "sha256": "2a49e307779edeed605c1909b075ddadbc3c7e1641c289c388f774baf41b01f6" }
+  "notes": "Kalender (CalDAV, nur lesen): Bausteine {termin}, {termine_heute}, {termine_woche}",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "b85d31afa13da138d8a0df0ca7fdb7e968c6daea6846b2914123e9a8615efe38" },
+  "linux": { "file": "linux/f12notes", "sha256": "8564c2746c7633aa393476de4152660961c1da776ddf9aa000f68151a54c0a87" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.8.0", "sha256": "76a3c62e86585e856c15c2b6e9a56e331d4927c08af848139a1abf48de80401d" }
 }
