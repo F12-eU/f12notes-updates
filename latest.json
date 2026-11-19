@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "date": "2026-11-19",
-  "notes": "Kalender (CalDAV, nur lesen): Bausteine {termin}, {termine_heute}, {termine_woche}",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "b85d31afa13da138d8a0df0ca7fdb7e968c6daea6846b2914123e9a8615efe38" },
-  "linux": { "file": "linux/f12notes", "sha256": "8564c2746c7633aa393476de4152660961c1da776ddf9aa000f68151a54c0a87" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.8.0", "sha256": "76a3c62e86585e856c15c2b6e9a56e331d4927c08af848139a1abf48de80401d" }
+  "notes": "Kalender: nur Titel mit {termin_titel}, {termine_heute_titel}, {termine_woche_titel}",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "8381737c544f90a1ee74bbfe9c8e46cf1b5e85e1a403ef632dea2808038a3d01" },
+  "linux": { "file": "linux/f12notes", "sha256": "8bdb0941da4c5343e68b57281e16eab520a073225a2407e5e5ba71cd66727263" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.8.1", "sha256": "6a73bb81f4c8f75605cbe337645414782383992e78a21701ff2ad55f60c29c84" }
 }
