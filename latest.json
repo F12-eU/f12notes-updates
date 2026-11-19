@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "date": "2026-11-18",
-  "notes": "Rechtsklick (Handy: gedrückt halten) zeigt eine Zeile vorübergehend als Klartext – Links, Farben usw. bearbeiten\nIn der formatierten Ansicht zählt jedes Markdown-Element (Checkbox, Pfeil …) als ein Zeichen\nMarkdown-Ansicht umschalten: Strg+M bzw. F12",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "0686674305092c1f6bacf1bc13d43636cafe44ab0964e803cdc51bd03fc9d2b6" },
-  "linux": { "file": "linux/f12notes", "sha256": "56c561dd60ea0be2bb821f4a13162e2abf67cad7f9651d7d35a3f413e56120f4" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.7.0", "sha256": "dfe7b7ff866f5615aa7fe6fb75eda98d2d39f5341099a288991ef7480b8fa320" }
+  "version": "0.7.1",
+  "date": "2026-11-19",
+  "notes": "Automatisches Einfügen: neue Position nach:Text – hinter dem ersten Vorkommen eines Textes einfügen",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "37354ae851bdbeac62eb814496278b06e56584b487d68df77699137692bde56e" },
+  "linux": { "file": "linux/f12notes", "sha256": "466e63b3c74a38465a4e1689aaac329b3f6b8a469bfb41d2ab7c273235ca9c40" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.7.1", "sha256": "2a49e307779edeed605c1909b075ddadbc3c7e1641c289c388f774baf41b01f6" }
 }
