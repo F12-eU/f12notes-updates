@@ -1,8 +1,8 @@
 {
-  "version": "0.8.3",
+  "version": "0.8.4",
   "date": "2026-11-19",
-  "notes": "Kalender: Termine als Checkboxen [ ] auflisten",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "117e40adfbee3aa2cb494fd635af8cef4e2b7fa61a9ff437ef14202481fb03a4" },
-  "linux": { "file": "linux/f12notes", "sha256": "a376c7b113ae94b3ea9d4462630c1043a3bc56fff56016ea14d4feceb63931a7" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.8.3", "sha256": "08a4b831e464b0d606e5f9f76eb5172abaaccc870dd054136d287d03c239683a" }
+  "notes": "Blöcke: das abschließende ::: ist in der formatierten Ansicht unsichtbar",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "bb22b6171c0d2a5bec4f269e7546ed3fa5a82250fd345d933c812f0b3d863f2e" },
+  "linux": { "file": "linux/f12notes", "sha256": "99afee90d600f02a45c622cae697b4f387c9fa48a1d5e0d0805af22dd74419f3" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.8.4", "sha256": "8a9870b6e767b7af9290afebe8c7c831822b7464cee9e252f9132139e5438385" }
 }
