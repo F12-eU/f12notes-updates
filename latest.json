@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
+  "version": "0.9.2",
   "date": "2026-11-20",
-  "notes": "Cloud-Abgleich: Änderungen werden auch bei minimiertem oder ausgeblendetem Fenster sofort hochgeladen und geholt",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "087b777eeac5a11ed06cbef8375ec6dae583793cc55630894c580ea8ce74f69d" },
-  "linux": { "file": "linux/f12notes", "sha256": "92602a1e85063305ff9297e57d0ac72ee66d9e0b6828e58c59851888c6bee8b6" },
+  "notes": "Automatisches Einfügen wartet auf den Cloud-Stand der anderen Geräte (auch beim Autostart ohne Netz und beim Tageswechsel)",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "aff8f1ad862d8af3b3465da47caf38162e608b7b7658584e167bcd3a7d41749a" },
+  "linux": { "file": "linux/f12notes", "sha256": "f54f1102e19e8f9a48cc82df32e3d755ba3bcbb7e9d6ffd999dfdb0adc8b351c" },
   "android": { "file": "android/F12Notes.apk", "version": "0.9.0", "sha256": "aed3001cb753ee43bcd7ee18ddde06cf2a860e8a16e20d7391534139983d1813" }
 }
