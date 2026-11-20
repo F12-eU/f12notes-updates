@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
-  "date": "2026-11-19",
-  "notes": "Shift+Enter: mehrzeilige Listenpunkte; Blöcke auch in eingerückten Zeilen",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "012c81e36aa2cbe8627fca3fe171942e35b0d2185099d431f64e676f39767c2d" },
-  "linux": { "file": "linux/f12notes", "sha256": "520a2357a2b304d8ca4962aa03d99ac1ff296a6a964e83e5f68a5519b853419e" },
+  "version": "0.9.1",
+  "date": "2026-11-20",
+  "notes": "Cloud-Abgleich: Änderungen werden auch bei minimiertem oder ausgeblendetem Fenster sofort hochgeladen und geholt",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "087b777eeac5a11ed06cbef8375ec6dae583793cc55630894c580ea8ce74f69d" },
+  "linux": { "file": "linux/f12notes", "sha256": "92602a1e85063305ff9297e57d0ac72ee66d9e0b6828e58c59851888c6bee8b6" },
   "android": { "file": "android/F12Notes.apk", "version": "0.9.0", "sha256": "aed3001cb753ee43bcd7ee18ddde06cf2a860e8a16e20d7391534139983d1813" }
 }
